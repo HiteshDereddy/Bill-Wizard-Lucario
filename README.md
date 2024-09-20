@@ -21,5 +21,5 @@ BillWizard is a desktop application that captures video input from a webcam or p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/BillWizard.git
-   cd BillWizard
+   git clone https://github.com/HiteshDereddy/Bill-Wizard-Lucario.git
+   
